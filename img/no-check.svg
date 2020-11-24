@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Прямоугольник 13.svg"
+   id="svg5"
+   version="1.1"
+   height="10"
+   width="12"
+   viewBox="0 0 12 10">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg5"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="6"
+     inkscape:cx="6"
+     inkscape:zoom="59.583333"
+     showgrid="false"
+     id="namedview7"
+     inkscape:window-height="1011"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <style
+     id="style2">
+		tspan { white-space:pre }
+		.shp0 { fill: #acacac } 
+	</style>
+  <path
+     style="stroke-width:1.07232"
+     d="M 3.1768868,0.27085605 10.23467,8.3748649 8.8231129,9.9999999 1.7653302,1.8851572 Z M 1.5,7.6598052 9.003538,1.5e-7 10.5,1.5276274 2.9964624,9.1874318 Z"
+     class="shp0"
+     id="Прямоугольник 13" />
+</svg>
